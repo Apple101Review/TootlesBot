@@ -1,0 +1,16 @@
+RELEASE NOTES: 
+
+"TootlesBot"
+    By: Shawn Schwartz, 10, Team 4 ELEMENT
+Version 1.0
+Release Date: Thursday, December 27, 2012
+Template System: FRC Java CommandBase
+
+Simple Robot Software intended for a West Coast Drive (6WCD) System.
+Features:
+    Tank and Arcade Drive Systems
+    GYROscope algorithm for making a robot drive straight using a "zeroing" system, integrated with a PID Loop.
+    High/Low Gear Shifting Settings
+
+Requires:
+    cRIO Imaged for WPILIB/FRC Java
